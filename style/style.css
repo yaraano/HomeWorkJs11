@@ -1,0 +1,12 @@
+.form {
+    margin: 0 auto;
+    margin-top: 200px;
+    display: flex;
+    flex-wrap: wrap ;
+    width: 215px;
+    gap: 5px;
+}
+.submit {
+    border: none;
+    padding: 15px 30px;
+}
